@@ -1,0 +1,66 @@
+.tops {
+    display: flex;
+    flex-direction: row;
+    list-style:none ;
+    justify-content: center;
+    margin-right: 290px;
+    margin-top: 80px;
+}
+.top {
+   margin-left: 140px;
+   color: rgb(98, 98, 98)
+}
+.all {
+    font-family: 'Gupter', serif;
+    color: rgb(98, 98, 98)
+}
+.to {
+    text-decoration: none;
+    color: rgb(98, 98, 98)
+}
+.to:hover {
+    color: rgb(3, 169, 243)
+}
+.blocks {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 1300px;
+    margin-left: 200px;
+}
+.block {
+    display: flex;
+    flex-direction: column;
+    max-width: 440px;
+    margin-left: 140px;
+    margin-top: 100px;
+}
+.text {
+    color: gray;
+    font-size: 18px;
+}
+.big {
+    font-size: 30px;
+}
+.gray {
+    color: rgb(189, 183, 170)
+    
+}
+.bot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    margin-bottom: 70px;
+    margin-top: 70px;   
+    color: rgb(189, 183, 170);      
+}
+.textio {
+    font-size: 20px;
+    padding: 25px 38px;
+    font-family: 'Gupter', serif;
+    color: rgb(189, 183, 170)
+    
+}
